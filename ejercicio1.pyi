@@ -14,14 +14,14 @@ data = {
 df = pd.DataFrame(data)
 
 # Mostrar los datos
-print("📋 Datos originales:\n", df)
+print("Datos originales:\n", df)
 
 # Estadísticas básicas
-print("\n📊 Promedio de edad:", df['Edad'].mean())
+print("\n Promedio de edad:", df['Edad'].mean())
 
 # Contar personas por estado emocional
 conteo_estados = df['Estado'].value_counts()
-print("\n😊 Conteo por estado emocional:\n", conteo_estados)
+print("\n Conteo por estado emocional:\n", conteo_estados)
 
 # Visualización
 sns.countplot(x='Estado', data=df, palette='pastel')
