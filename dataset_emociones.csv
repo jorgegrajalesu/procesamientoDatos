@@ -1,101 +1,101 @@
 ID,Nombre,Edad,Emoción,ClasificaciónEdad
-1,Andrés,9,Relajado,Niño
-2,Pedro,76,Feliz,Adulto Mayor
-3,Andrés,9,Serio,Niño
-4,Marta,49,Ansioso,Adulto
-5,Luis,30,Triste,Joven
-6,Pedro,78,Triste,Adulto Mayor
-7,Andrés,32,Feliz,Joven
-8,Marta,21,Ansioso,Joven
-9,Lucía,58,Relajado,Adulto
-10,Marta,14,Serio,Adolescente
-11,Luis,75,Ansioso,Adulto Mayor
-12,Laura,63,Feliz,Adulto Mayor
-13,Laura,34,Ansioso,Joven
-14,Pedro,42,Amargo,Adulto
-15,Andrés,46,Ansioso,Adulto
-16,Carlos,28,Amargo,Joven
-17,Carlos,55,Serio,Adulto
-18,Luis,34,Triste,Joven
-19,Lucía,23,Ansioso,Joven
-20,Luis,56,Amargo,Adulto
-21,Jorge,79,Ansioso,Adulto Mayor
-22,Luis,58,Amargo,Adulto
-23,Luis,85,Serio,Adulto Mayor
-24,Andrés,73,Serio,Adulto Mayor
-25,Andrés,84,Amargo,Adulto Mayor
-26,Laura,70,Triste,Adulto Mayor
-27,Jorge,48,Ansioso,Adulto
-28,Sofía,45,Triste,Adulto
-29,Sofía,27,Triste,Joven
-30,Carlos,49,Amargo,Adulto
-31,Luis,71,Feliz,Adulto Mayor
-32,Jorge,49,Ansioso,Adulto
-33,Marta,64,Triste,Adulto Mayor
-34,Marta,86,Triste,Adulto Mayor
-35,Pedro,12,Triste,Niño
-36,Jorge,26,Amargo,Joven
-37,Jorge,49,Relajado,Adulto
-38,Lucía,80,Amargo,Adulto Mayor
-39,Marta,78,Ansioso,Adulto Mayor
-40,Luis,23,Ansioso,Joven
-41,Pedro,53,Feliz,Adulto
-42,Laura,23,Amargo,Joven
-43,Andrés,75,Relajado,Adulto Mayor
-44,Lucía,43,Relajado,Adulto
-45,Luis,12,Triste,Niño
-46,Marta,38,Triste,Adulto
-47,Pedro,49,Serio,Adulto
-48,Marta,61,Serio,Adulto Mayor
-49,Jorge,75,Ansioso,Adulto Mayor
-50,Andrés,81,Feliz,Adulto Mayor
-51,Laura,84,Feliz,Adulto Mayor
-52,Sofía,76,Feliz,Adulto Mayor
-53,Marta,73,Amargo,Adulto Mayor
-54,Luis,34,Feliz,Joven
-55,Laura,65,Feliz,Adulto Mayor
-56,Pedro,55,Serio,Adulto
-57,Lucía,85,Triste,Adulto Mayor
-58,Marta,35,Relajado,Joven
-59,Andrés,9,Feliz,Niño
-60,Andrés,50,Triste,Adulto
-61,Marta,63,Amargo,Adulto Mayor
-62,Sofía,41,Serio,Adulto
-63,Lucía,10,Relajado,Niño
-64,Laura,62,Triste,Adulto Mayor
-65,Jorge,35,Triste,Joven
-66,Luis,58,Triste,Adulto
-67,Carlos,68,Amargo,Adulto Mayor
-68,Ana,27,Feliz,Joven
-69,Luis,5,Relajado,Niño
-70,Ana,79,Amargo,Adulto Mayor
-71,Lucía,10,Feliz,Niño
-72,Pedro,18,Relajado,Adolescente
-73,Sofía,77,Ansioso,Adulto Mayor
-74,Sofía,60,Ansioso,Adulto Mayor
-75,Marta,59,Amargo,Adulto
-76,Pedro,78,Triste,Adulto Mayor
-77,Carlos,73,Relajado,Adulto Mayor
-78,Jorge,66,Triste,Adulto Mayor
-79,Sofía,86,Serio,Adulto Mayor
-80,Luis,81,Triste,Adulto Mayor
-81,Luis,32,Serio,Joven
-82,Luis,82,Relajado,Adulto Mayor
-83,Jorge,28,Feliz,Joven
-84,Jorge,84,Feliz,Adulto Mayor
-85,Carlos,68,Relajado,Adulto Mayor
-86,Luis,89,Amargo,Adulto Mayor
-87,Sofía,22,Serio,Joven
-88,Carlos,7,Serio,Niño
-89,Andrés,88,Relajado,Adulto Mayor
-90,Laura,90,Amargo,Adulto Mayor
-91,Pedro,67,Relajado,Adulto Mayor
-92,Ana,6,Serio,Niño
-93,Laura,76,Triste,Adulto Mayor
-94,Luis,87,Relajado,Adulto Mayor
-95,Luis,63,Ansioso,Adulto Mayor
-96,Marta,17,Ansioso,Adolescente
-97,Sofía,46,Feliz,Adulto
-98,Andrés,29,Feliz,Joven
-99,Ana,49,Amargo,Adulto
-100,Marta,54,Relajado,Adulto
+1,Marta,25,Relajado,Joven
+2,Lucía,65,Feliz,Adulto Mayor
+3,Andrés,65,Amargo,Adulto Mayor
+4,Lucía,44,Amargo,Adulto
+5,Laura,26,Amargo,Joven
+6,Lucía,35,Serio,Joven
+7,Laura,64,Relajado,Adulto Mayor
+8,Ana,86,Feliz,Adulto Mayor
+9,Andrés,11,Triste,Niño
+10,Luis,83,Serio,Adulto Mayor
+11,Laura,85,Serio,Adulto Mayor
+12,Sofía,40,Relajado,Adulto
+13,Marta,70,Relajado,Adulto Mayor
+14,Marta,16,Amargo,Adolescente
+15,Laura,76,Triste,Adulto Mayor
+16,Laura,28,Serio,Joven
+17,Marta,57,Ansioso,Adulto
+18,Ana,69,Triste,Adulto Mayor
+19,Carlos,74,Triste,Adulto Mayor
+20,Jorge,87,Amargo,Adulto Mayor
+21,Pedro,87,Ansioso,Adulto Mayor
+22,Sofía,33,Serio,Joven
+23,Andrés,50,Ansioso,Adulto
+24,Luis,18,Relajado,Adolescente
+25,Ana,74,Feliz,Adulto Mayor
+26,Laura,13,Triste,Adolescente
+27,Carlos,56,Feliz,Adulto
+28,Lucía,7,Triste,Niño
+29,Lucía,76,Serio,Adulto Mayor
+30,Ana,11,Ansioso,Niño
+31,Lucía,8,Amargo,Niño
+32,Jorge,25,Serio,Joven
+33,Ana,68,Feliz,Adulto Mayor
+34,Ana,40,Feliz,Adulto
+35,Ana,79,Amargo,Adulto Mayor
+36,Andrés,37,Amargo,Adulto
+37,Jorge,67,Amargo,Adulto Mayor
+38,Carlos,31,Triste,Joven
+39,Ana,16,Feliz,Adolescente
+40,Marta,57,Relajado,Adulto
+41,Lucía,66,Amargo,Adulto Mayor
+42,Sofía,50,Amargo,Adulto
+43,Luis,37,Triste,Adulto
+44,Pedro,45,Relajado,Adulto
+45,Sofía,6,Ansioso,Niño
+46,Pedro,75,Feliz,Adulto Mayor
+47,Carlos,5,Amargo,Niño
+48,Lucía,25,Serio,Joven
+49,Lucía,23,Triste,Joven
+50,Marta,66,Triste,Adulto Mayor
+51,Lucía,32,Relajado,Joven
+52,Laura,6,Serio,Niño
+53,Luis,80,Serio,Adulto Mayor
+54,Luis,43,Ansioso,Adulto
+55,Luis,80,Serio,Adulto Mayor
+56,Jorge,17,Amargo,Adolescente
+57,Carlos,39,Relajado,Adulto
+58,Lucía,35,Ansioso,Joven
+59,Laura,63,Amargo,Adulto Mayor
+60,Laura,14,Ansioso,Adolescente
+61,Pedro,10,Ansioso,Niño
+62,Luis,38,Amargo,Adulto
+63,Ana,86,Feliz,Adulto Mayor
+64,Jorge,15,Serio,Adolescente
+65,Luis,30,Feliz,Joven
+66,Sofía,89,Ansioso,Adulto Mayor
+67,Luis,26,Amargo,Joven
+68,Pedro,68,Triste,Adulto Mayor
+69,Ana,73,Ansioso,Adulto Mayor
+70,Jorge,50,Ansioso,Adulto
+71,Carlos,89,Ansioso,Adulto Mayor
+72,Carlos,39,Relajado,Adulto
+73,Lucía,72,Serio,Adulto Mayor
+74,Pedro,49,Relajado,Adulto
+75,Ana,86,Relajado,Adulto Mayor
+76,Ana,49,Serio,Adulto
+77,Jorge,88,Serio,Adulto Mayor
+78,Lucía,52,Relajado,Adulto
+79,Sofía,69,Amargo,Adulto Mayor
+80,Jorge,58,Amargo,Adulto
+81,Jorge,36,Feliz,Adulto
+82,Laura,13,Serio,Adolescente
+83,Laura,75,Triste,Adulto Mayor
+84,Laura,78,Serio,Adulto Mayor
+85,Laura,52,Amargo,Adulto
+86,Pedro,26,Relajado,Joven
+87,Jorge,79,Amargo,Adulto Mayor
+88,Jorge,39,Relajado,Adulto
+89,Luis,67,Ansioso,Adulto Mayor
+90,Sofía,51,Serio,Adulto
+91,Marta,57,Feliz,Adulto
+92,Jorge,53,Feliz,Adulto
+93,Marta,89,Relajado,Adulto Mayor
+94,Luis,11,Ansioso,Niño
+95,Jorge,59,Ansioso,Adulto
+96,Jorge,40,Amargo,Adulto
+97,Pedro,46,Serio,Adulto
+98,Laura,6,Ansioso,Niño
+99,Sofía,52,Ansioso,Adulto
+100,Jorge,79,Relajado,Adulto Mayor

@@ -12,7 +12,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 # ===========================================
-# 1️⃣ GENERACIÓN DEL DATASET
+#  GENERACIÓN DEL DATASET
 # ===========================================
 
 n = 100  # número de registros
@@ -30,7 +30,7 @@ data = {
 df = pd.DataFrame(data)
 
 # ===========================================
-# 2️⃣ CLASIFICACIÓN DE EDADES
+#  CLASIFICACIÓN DE EDADES
 # ===========================================
 
 def clasificar_edad(edad):
@@ -47,31 +47,31 @@ def clasificar_edad(edad):
 
 df["ClasificaciónEdad"] = df["Edad"].apply(clasificar_edad)
 
-print("✅ Dataset generado correctamente\n")
+print("Dataset generado correctamente\n")
 print(df.head())
 
 # ===========================================
-# 3️⃣ GUARDAR ARCHIVOS (CSV y Excel)
+#  GUARDAR ARCHIVOS (CSV y Excel)
 # ===========================================
 
 df.to_csv("dataset_emociones.csv", index=False, encoding="utf-8")
 df.to_excel("dataset_emociones.xlsx", index=False)
 
-print("💾 Archivos guardados:")
+print("Archivos guardados:")
 print("- dataset_emociones.csv")
 print("- dataset_emociones.xlsx\n")
 
 # ===========================================
-# 4️⃣ ANÁLISIS ESTADÍSTICO
+# ANÁLISIS ESTADÍSTICO
 # ===========================================
 
 resumen = df.groupby("ClasificaciónEdad")["Edad"].agg(["count", "mean", "min", "max"])
-print("📊 Resumen por grupo de edad:")
+print("Resumen por grupo de edad:")
 print(resumen)
 print("\n")
 
 # ===========================================
-# 5️⃣ VISUALIZACIÓN DE DATOS
+# VISUALIZACIÓN DE DATOS
 # ===========================================
 
 plt.figure(figsize=(8,5))
@@ -91,7 +91,7 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 plt.show()
 
 # ===========================================
-# 6️⃣ MODELO DE CLASIFICACIÓN AUTOMÁTICA
+# MODELO DE CLASIFICACIÓN AUTOMÁTICA
 # ===========================================
 
 # Codificar etiquetas
@@ -114,19 +114,19 @@ y_pred = modelo.predict(X_test)
 
 # Evaluación
 accuracy = accuracy_score(y_test, y_pred)
-print(f"🎯 Precisión del modelo: {accuracy*100:.2f}%\n")
-print("📘 Reporte de clasificación:")
+print(f" Precisión del modelo: {accuracy*100:.2f}%\n")
+print(" Reporte de clasificación:")
 print(classification_report(y_test, y_pred, target_names=le.classes_))
 
 # Mostrar matriz de confusión
 cm = confusion_matrix(y_test, y_pred)
-print("\n🧩 Matriz de confusión:")
+print("\n Matriz de confusión:")
 print(cm)
 
 # ===========================================
-# 7️⃣ PRUEBA DE PREDICCIÓN
+#  PRUEBA DE PREDICCIÓN
 # ===========================================
 
-nueva_edad = int(input("\n🔢 Ingresa una edad para predecir su clasificación: "))
+nueva_edad = int(input("\n Ingresa una edad para predecir su clasificación: "))
 prediccion = modelo.predict([[nueva_edad]])
 print(f"👉 Resultado: {le.inverse_transform(prediccion)[0]}")
