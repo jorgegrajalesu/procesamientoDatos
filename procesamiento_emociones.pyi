@@ -129,4 +129,4 @@ print(cm)
 
 nueva_edad = int(input("\n Ingresa una edad para predecir su clasificación: "))
 prediccion = modelo.predict([[nueva_edad]])
-print(f"👉 Resultado: {le.inverse_transform(prediccion)[0]}")
+print(f" Resultado: {le.inverse_transform(prediccion)[0]}")
